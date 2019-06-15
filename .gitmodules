@@ -1,4 +1,4 @@
 [submodule "Box2D"]
 	path = Box2D
-	url = https://github.com/JoshuaHaustein/Box2D.git
-	branch = collision_access
+	url = https://github.com/Haoran-SONG/Box2D.git
+	branch = master
